@@ -61,8 +61,8 @@ weather-dashboard-app/
 ├── style.css             # CSS file for styling
 ├── script.js             # JavaScript file for functionality
 └── screenshots/          # Folder for screenshots
-    ├── main-screen.png   # Screenshot of the main screen
-    └── weather-forecast.png # Screenshot of the weather forecast
+    ├── main.png   # Screenshot of the main screen
+    └── weather.png # Screenshot of the weather forecast
 ```
 ## License
 
